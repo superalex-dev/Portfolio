@@ -121,11 +121,11 @@ section .title::after{
     transition: color 0.3s ease;
 }
 /* Background btns color*/
-.navbar .menu li a:hover{
-    color: #fff;;
+.navbar .menu li a:hover{ 
+    color: #FF9933;;
 }
 .navbar.sticky .menu li a:hover{
-    color: crimson;
+    color: #FF9933;
 }
 
 /* menu btn styling */
@@ -587,6 +587,7 @@ footer span a:hover{
         text-align: center;
         padding-top: 80px;
         transition: all 0.3s ease;
+
     }
     .navbar .menu.active{
         left: 0;
