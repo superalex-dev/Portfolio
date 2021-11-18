@@ -446,7 +446,16 @@ section .title::after{
 
 
 /* contact section styling */
+.services, .contact{
+    color:#fff;
+    background: #111;
+}
+.contact .title::before,
+.contact .title::before{
+    background: #fff;
+}
 .contact .title::after{
+    background: #111;
     content: "get in touch";
 }
 .contact .contact-content .column{
@@ -479,7 +488,7 @@ section .title::after{
     font-weight: 500;
 }
 .contact .contact-content .info .sub-title{
-    color: #333;
+    color: #FFF;
 }
 .contact .right form .fields{
     display: flex;
