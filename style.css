@@ -105,7 +105,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
-    color: #FFF;
+    color: crimson;
 }
 .navbar .menu li{
     list-style: none;
