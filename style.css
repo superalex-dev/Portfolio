@@ -121,10 +121,10 @@ section .title::after{
 }
 /* Background btns color*/
 .navbar .menu li a:hover{ 
-    color: lawngreen;;
+    color: #FF9933;;
 }
 .navbar.sticky .menu li a:hover{
-    color: lawngreen;
+    color: #FF9933;
 }
 
 /* menu btn styling */
