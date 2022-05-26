@@ -29,14 +29,14 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Developer","Freelancer", "Gamer", "Pool player"],
+        strings: ["Developer","Freelancer", "Gamer", "Driving enthusiast"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Developer","Freelancer", "Gamer", "Pool player"],
+        strings: ["Developer","Freelancer", "Gamer", "Driving enthusiast"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
